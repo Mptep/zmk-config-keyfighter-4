@@ -1,6 +1,7 @@
-if SHIELD_KEYFIGHTER
 
-config ZMK_KEYBOARD_NAME
+if SHIELD_KEYFIGHTER                                        
+                                                              
+config ZMK_KEYBOARD_NAME                                    
     default "keyfighter"
 
 endif
