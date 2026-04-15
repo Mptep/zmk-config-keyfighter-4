@@ -21,7 +21,7 @@
                 &kp TAB     &kp Q       &kp W   &kp E   &kp R   &kp T   &kp Y   &kp J   &kp K   &kp O       &kp P       &kp FSLH        &kp BSPC
                 &mo FN      &kp LCTRL   &kp A   &kp S   &kp D   &kp F   &kp G   &kp H   &kp U   &kp I       &kp L       &kp SEMICOLON   &kp APOS        
                 &kp LWIN    &kp LSHIFT  &kp Z   &kp X   &kp C   &kp V   &kp B   &kp N   &kp M   &kp COMMA   &kp PERIOD  &kp RSHIFT      &kp ENTER
-                &mo LT      &kp LALT                                    &lt SPC SPACE                       &kp RCTRL   &kp RALT        &mo RT
+                &kp LGUI      &kp LALT                                    &lt LT SPACE                       &kp RCTRL   &kp RALT        &kp RCTRL
             >;
         };
 
@@ -30,7 +30,7 @@
                 &kp TAB     &kp Q       &kp W   &kp E   &kp R   &kp T   &kp Y   &kp J   &kp I   &kp O       &kp P       &kp FSLH        &kp BSPC
                 &mo FN      &kp LCTRL   &kp A   &kp S   &kp D   &kp F   &kp G   &kp H   &kp J   &kp K       &kp L       &kp SEMICOLON   &kp APOS        
                 &kp LWIN    &kp LSHIFT  &kp Z   &kp X   &kp C   &kp V   &kp B   &kp N   &kp M   &kp COMMA   &kp PERIOD  &kp RSHIFT      &kp ENTER
-                &mo LT      &kp LALT                                    &lt SPC SPACE                       &kp RCTRL   &kp RALT        &mo RT
+                &kp LGUI      &kp LALT                                    &lt LT SPACE                       &kp RCTRL   &kp RALT        &kp RCTRL
             >;
         };
 
@@ -39,7 +39,7 @@
                 &kp TAB     &kp Q       &kp W   &kp E   &kp R   &kp T   &kp Y   &kp J   &kp K   &kp O       &kp P       &kp FSLH        &kp BSPC
                 &mo FN      &kp LGUI    &kp A   &kp S   &kp D   &kp F   &kp G   &kp H   &kp U   &kp I       &kp L       &kp SEMICOLON   &kp APOS        
                 &kp LWIN    &kp LSHIFT  &kp Z   &kp X   &kp C   &kp V   &kp B   &kp N   &kp M   &kp COMMA   &kp PERIOD  &kp RSHIFT      &kp ENTER
-                &mo LT      &kp LALT                                    &lt SPC SPACE                       &kp RGUI    &kp RALT        &mo RT
+                &kp LGUI      &kp LALT                                    &lt LT SPACE                       &kp RGUI    &kp RALT        &kp RCTRL
             >;
         };
 
@@ -48,7 +48,7 @@
                 &kp TAB     &kp Q       &kp W   &kp E   &kp R   &kp T   &kp Y   &kp U   &kp I   &kp O       &kp P       &kp FSLH        &kp BSPC
                 &mo FN      &kp LGUI    &kp A   &kp S   &kp D   &kp F   &kp G   &kp H   &kp J   &kp K       &kp L       &kp SEMICOLON   &kp APOS        
                 &kp LWIN    &kp LSHIFT  &kp Z   &kp X   &kp C   &kp V   &kp B   &kp N   &kp M   &kp COMMA   &kp PERIOD  &kp RSHIFT      &kp ENTER
-                &mo LT      &kp LALT                                    &lt SPC SPACE                       &kp RGUI    &kp RALT        &mo RT
+                &kp LGUI      &kp LALT                                    &lt LT SPACE                       &kp RGUI    &kp RALT        &kp RCTRL
             >;
         };
 
