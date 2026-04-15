@@ -3,11 +3,5 @@ if SHIELD_KEYFIGHTER
                                                               
 config ZMK_KEYBOARD_NAME                                    
     default "keyfighter"
-                                                              
-config BT_CTLR_TX_PWR_PLUS_8                              
-    default y                                               
-                                                            
-config BT_BUF_ACL_TX_COUNT                                
-    default 10                          
 
 endif
